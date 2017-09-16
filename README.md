@@ -3,7 +3,7 @@
 [![NPM Version](https://img.shields.io/npm/v/has-termux-api.svg)](https://www.npmjs.com/package/has-termux-api)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-> Node module to check if termux-api is installed
+> Node module to check if termux-api is installed on your Android
 
 ## Install
 
